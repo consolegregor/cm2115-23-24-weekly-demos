@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo provides a tidied-up and documented version of the demo code written during each week's Monday session. The aim is to allow you to view the code again, and play about with it so as to deepen your understanding of each individual topic in isolation.
+This repo provides a tidied-up and documented version of the demo code written during each week's Thursday workshop. The aim is to allow you to view the code again, and play about with it so as to deepen your understanding of each individual topic in isolation.
 
 Note that this isn't an alternative to the weekly Smart Home project, which you should still complete via the weekly lab exercises.
 
