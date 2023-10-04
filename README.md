@@ -30,7 +30,7 @@ To sync the changes from the main repo each week, visit your repo on GitHub and 
 
 ## Topic listing
 
-The following links will take you to the package in `src/main/java` and, where relevant, FXML files in `src/main/resources` for each topic. The list will be updated each week when the new code is added.
+The following links will take you to the package in `src/main/java` and, where relevant, FXML files in `src/main/resources` for each topic. Note that links will lead to a 404 until we've covered that topic in class.
 
 - Topic 2: JavaFX
     - [Code](https://github.com/RobertGordonUniversity/cm2115-23-24-weekly-demos/tree/main/src/main/java/uk/ac/rgu/topic2)
