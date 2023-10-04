@@ -1,7 +1,7 @@
-module uk.ac.rgu.cm2115 {
-    // requires transitive javafx.controls;
-    // requires transitive javafx.fxml;
+module uk.ac.rgu {
+    requires transitive javafx.controls;
+    requires transitive javafx.fxml;
 
-    // opens uk.ac.rgu.cm2115 to javafx.fxml;
-    // exports uk.ac.rgu.cm2115;
+    opens uk.ac.rgu.topic2 to javafx.fxml;
+    exports uk.ac.rgu.topic2;
 }
